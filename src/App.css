@@ -92,11 +92,13 @@ body {
 }
 
 .home-img {
-  display: flex;
+  display: grid;
   flex: 0 1 80%;
   margin: auto;
   max-width: 500px;
   height: 40%;
+  padding: 10vhh;
+  gap: 5vh;
 }
 
 img {
